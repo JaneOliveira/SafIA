@@ -134,6 +134,8 @@ ollama serve
 Caso o modelo ainda não esteja instalado:
 
 ollama pull llama3.2
+
+
 ⛔ Encerrando a Aplicação
 1. Identifique o processo usando a porta 8080
 lsof -i :8080
